@@ -2,6 +2,8 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 
+// OBS: Dados sensíveis foram removidos para permitir upload no github
+
 // Configurações WiFi
 #define WLAN_SSID       "SEU_SSID"
 #define WLAN_PASS       "SUA_SENHA"
